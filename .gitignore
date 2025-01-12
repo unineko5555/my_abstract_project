@@ -12,3 +12,6 @@ docs/
 
 # Dotenv file
 .env
+
+# Ignore era-test-node directory
+era-test-node/
